@@ -1,0 +1,13 @@
+a=1
+print(a)
+print(type(a))
+b=0.2
+print(b)
+print(type(b))
+c=True
+print(c)
+print(type(c))
+d=10
+print(hex(d))
+e=15
+print(oct(e))
