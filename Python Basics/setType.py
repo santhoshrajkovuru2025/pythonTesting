@@ -14,4 +14,5 @@ print(s)
 s.remove(10)
 
 f = frozenset(s)
+print(f)
 
