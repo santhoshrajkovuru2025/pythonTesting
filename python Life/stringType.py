@@ -1,0 +1,23 @@
+str= " Python's String "
+
+print(str)
+str.lower()
+print(str.lower())
+len(str)
+print(len(str))
+str.upper()
+print(str.upper())
+str.endswith('String')
+print(str.endswith('String'))
+str.startswith('python')
+print(str.startswith('python'))
+str.replace('String', 'STRING')
+print(str.replace('String', 'STRING'))
+str.split('STRING')
+print(str.split('STRING'))
+"""str.index('RAM')
+print(str.index('RAM'))"""
+str.find('krishna')
+print(str.find('krishna'))
+str.strip("Python's")
+print(str.strip("Python's"))
