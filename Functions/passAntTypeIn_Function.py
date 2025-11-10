@@ -11,3 +11,7 @@ def view(set):
 view({3,3,4,4,5,8,6,7})
 print("----------")
 
+def funa(dict):
+    for n in  dict:
+        print(n)
+funa({1,3,'c','str'})
